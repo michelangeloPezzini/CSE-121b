@@ -1,0 +1,5 @@
+I hope this message finds you well. I wanted to share with you my project idea for the upcoming assignment. I plan on creating a web application that utilizes the Pokemon API to display images and names of Pokemon based on a user's search by name or number.
+
+The application will consist of a search bar where users can input the name or number of a Pokemon they are looking for. Once the search is submitted, the application will make a fetch request to the Pokemon API to retrieve the data for the corresponding Pokemon. The data will include the name and image of the Pokemon, which will be displayed on the page.
+
+To meet the required elements of the assignment, I plan on utilizing modules to organize and structure my code. Additionally, I will be making use of the fetch function to retrieve data from the API and working with objects to store and manipulate the data. I will also be utilizing array functions to sort and filter the data as needed.
